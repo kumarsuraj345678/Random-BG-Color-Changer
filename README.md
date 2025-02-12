@@ -10,7 +10,7 @@ A simple web application that changes the background color to a random color eac
 - [Contributing](#contributing)
 
 #### Demo
-Check out the live demo [here](https://surajkumar345678.github.io/Random-BG-Color-Changer/).
+Check out the live demo [here](https://kumarsuraj345678.github.io/Random-BG-Color-Changer/).
 
 #### Features
 - **Dynamic Color Generation:** Generates a random hex color code each time the button is clicked.
