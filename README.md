@@ -2,13 +2,6 @@
 
 A simple web application that changes the background color to a random color each time a button is clicked. This project demonstrates the use of HTML, CSS, and JavaScript to create an interactive and modern user experience.
 
-#### Table of Contents
-- [Demo](#demo)
-- [Features](#features)
-- [Screenshots](#screenshots)
-- [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-
 #### Demo
 Check out the live demo [here](https://kumarsuraj345678.github.io/Random-BG-Color-Changer/).
 
